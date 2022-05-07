@@ -19,8 +19,8 @@ const colorFunction = require('postcss-color-mod-function');
 const cssnano = require('cssnano');
 const easyimport = require('postcss-easy-import');
 
-const REPO = 'TryGhost/Casper';
-const REPO_READONLY = 'TryGhost/Casper';
+const REPO = 'Ashwanik936/modified-ghost-theme-in';
+const REPO_READONLY = 'Ashwanik936/modified-ghost-theme-in';
 const CHANGELOG_PATH = path.join(process.cwd(), '.', 'changelog.md');
 
 function serve(done) {
